@@ -1,6 +1,5 @@
 # lecture effectiveness analyzer 
 # Author : Swarupa
-
 # building a function :
 
 def lecture_effectiveness(duration, interaction, sleepiness):
