@@ -1,4 +1,4 @@
-# lecture effectiveness analyzer 
+# lecture effectiveness analyzer
 # Author : Swarupa
 # building a function :
 
