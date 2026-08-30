@@ -9,7 +9,7 @@ def lecture_effectiveness(duration, interaction, sleepiness):
         duration_score = 10
     else:
         duration_score = max(0, 10 - abs(duration - 52) / 5)
-
+        
     effectiveness = (
         interaction * 0.5 +
         duration_score * 0.3 +
