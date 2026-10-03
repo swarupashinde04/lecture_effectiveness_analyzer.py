@@ -1,4 +1,3 @@
-
 # Lecture Effectiveness Analyzer
 
 ## Problem
